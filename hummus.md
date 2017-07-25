@@ -2,6 +2,6 @@
 -chickpeas
 -garlic
 -lemon
--olive oil
+-vegetable oil
 -cummen
 
