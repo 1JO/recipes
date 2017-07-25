@@ -1,8 +1,9 @@
 # IngredientsD
--chickpeas
--garlic
--lemon
--vegetable oil
--cummen
+- chickpeas
+- garlic
+- lemon
+- vegetable oil
+- cummin
+- red pepper
 
 
